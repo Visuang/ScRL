@@ -2,7 +2,7 @@
 
 This is the official repository for **ScRL**, a novel framework designed for **cross-day and night person retrieval** in **Visible-Infrared Person Re-Identification (VI-ReID)**.
 
-🚀 **Code Coming Soon!** The source code and pre-trained models will be released upon the acceptance of our paper.
+🚀 **Code Coming Soon!** The source code and pre-trained models will be publicly available.
 
 ---
 
