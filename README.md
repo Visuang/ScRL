@@ -11,7 +11,7 @@ This is the official repository for **ScRL**, a novel framework designed for **c
 ---
 
 ## 📖 Paper
-Our paper **"ScRL: Shape-Appearance Collaborative Representation Learning for VI-ReID"** has been submitted for review.  
+Our paper **"ScRL: Shape-centered Representation Learning for Visible-Infrared Person Re-identification"** has been submitted for review.  
 - 📢 **[[Paper link](https://arxiv.org/pdf/2310.17952)]** (Coming soon)
 
 
