@@ -1,6 +1,6 @@
 # ScRL: Shape-centered Representation Learning for Visible-Infrared Person Re-identification
 
-This is the official repository for **ScRL**, a novel framework designed for **cross-day and night person retrieval** in **Visible-Infrared Person Re-Identification (VI-ReID)**.
+This is the official repository for **ScRL**, a novel framework designed for **Visible-Infrared Person Re-Identification (VI-ReID)**.
 
 🚀 **Code Coming Soon!** The source code and pre-trained models will be publicly available.
 
